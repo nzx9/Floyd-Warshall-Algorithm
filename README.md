@@ -63,7 +63,7 @@ fwa.run(distanceMatrix, {n : 0, detailed : true});
 ```
 #### Detailed Mode Off (return the calculated all pairs shortest path matrix)
 ```
-fwa.run(distanceMatrix );
+fwa.run(distanceMatrix);
 
 /* Output:
 [ [ 0, 3, -1, 4, -4 ],
