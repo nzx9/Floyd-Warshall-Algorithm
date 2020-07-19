@@ -10,7 +10,7 @@ let fwa = new FloydWarshallAlgorithm;
 ```
 
 
-#### Detailed Mode On (Print the calculations in every matrix and return the calculated all pairs shortest path matrix))
+#### Detailed Mode On (Print the calculations in every matrix and return the calculated all pairs shortest path matrix)
 ```
 fwa.run(distanceMatrix, {n : 0, detailed : true});
 
